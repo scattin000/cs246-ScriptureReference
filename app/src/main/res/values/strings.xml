@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScriptureReference</string>
+    <string name="button_send">Send</string> <!--Use this name in the activity_main -->
+    <string name="book_name">Book</string>
+    <string name="chapter">Chapter</string>
+    <string name="verse">Verse</string>
+</resources>
