@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/ryanwa18/Workout_Log_2.0.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mtcattin/FitAwesome/tree/NewOfficial" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects" />
